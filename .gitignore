@@ -1,0 +1,8 @@
+# Ignore temp files
+*.blend1
+*.blend2
+*autosave.blend
+
+# Ignore render output
+renders/
+cache/
